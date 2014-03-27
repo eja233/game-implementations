@@ -2,7 +2,7 @@
 # 12/15/12
 # Part of my final exam for an intro to python class: implementation of a peg solitaire game playable
 # from the command line. We were given a template file which had the show function, but I wrote the
-# rest of the code. 
+# rest of the code. The template code was written by Mike Vanier. 
 '''
 Interactive peg solitaire game.
 '''

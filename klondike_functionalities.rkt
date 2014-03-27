@@ -4,7 +4,8 @@
 ;; Implementation of some of the card game "klondike" in Racket Scheme
 ;; for a final in a class on programming methods. I was given a template,
 ;; but I wrote all the code except everything involving 'type and 'show. 
-;; I didn't write the comments. This is not a full implementation.
+;; I didn't write the comments. The template code was written by Mike
+;; Vanier. This is not a full implementation.
 
 ;; Export all procedures defined in this module.
 (provide (all-defined-out))
